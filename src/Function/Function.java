@@ -1,8 +1,11 @@
-package com.company;
+package Function;
 
 public class Function {
 
+    public static void main(String[] args)
+    {
 
+    }
 
     // Получить строковое название дня недели по номеру дня
     public static void dayOfNumber(int numbers){
@@ -111,7 +114,7 @@ public class Function {
 
     // Для задания 2 расширить диапазон до 999 миллиардов
 
-    public static String NumberToText2(int number)
+    public static String numberToText2(int number)
     {
         String words = "";
 

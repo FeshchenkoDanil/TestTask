@@ -1,7 +1,13 @@
-package com.company;
+package Conditional;
 
 public class Conditional {
-    public static class Conditions {
+
+
+        public static void main(String[] args)
+        {
+
+        }
+
         // Если а – четное посчитать а*б, иначе а+б
         public static int sumOrAdd(int a, int b)
         {
@@ -110,5 +116,5 @@ public class Conditional {
 
             return result ;
         }
-    }
+
 }

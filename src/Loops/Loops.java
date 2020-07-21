@@ -1,7 +1,17 @@
 package com.company;
 
-public class Cycle {
     public static class Loops {
+
+        public static void main(String[] args)
+        {
+
+        }
+
+
+
+
+
+
         // Найти сумму четных чисел и их количество в диапазоне от 1 до 99
         public static int[] sumAndCountEvenElements() {
             int sum = 0, count = 0;
@@ -26,7 +36,7 @@ public class Cycle {
         }
 
         // Найти корень натурального числа с точностью до целого (рассмотреть вариант последовательного подбора и метод бинарного поиска)
-// Вариант последовательного подбора
+        // Вариант последовательного подбора
         public static int mySqrtChecking(int a) {
             int i = 1;
             while (i * i <= a) {
@@ -81,4 +91,4 @@ public class Cycle {
 
 
     }
-}
+

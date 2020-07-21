@@ -1,12 +1,13 @@
+package Arrays;
 
-package com.company;
 import java.util.Arrays;
 
-public class Array
-{
-
-    public static class SimpleArray
+    public static class Arrays
     {
+        public static void main(String[] args)
+        {
+
+        }
 
         //  Найти минимальный элемент массива
         public static int minElement(int[] arr) {
