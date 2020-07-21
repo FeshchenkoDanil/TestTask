@@ -1,6 +1,7 @@
 package Arrays;
 
 import org.junit.jupiter.api.Test;
+
 import static org.junit.upiter.api.Assertions.assertEquals;
 
 public class ArraysTest
